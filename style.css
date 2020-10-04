@@ -1,0 +1,23 @@
+#intro {
+    background-image: url(faq-air-boarding-v2020-header.jpg);
+    height: 100%;
+}
+
+#loginlink {
+    text-align:center;
+}
+
+
+#goodtoseeyouagain{ 
+    text-align: center;
+    font-family: 'David Libre', serif;
+}
+
+#averylongdiv{
+    background-color: aqua;
+    align-items: center;
+}
+
+#color{
+    background-color: aqua;
+}
